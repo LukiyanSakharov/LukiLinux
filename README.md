@@ -4,3 +4,8 @@ The very first major update for LukiLinux is here. The distro is made for absolu
 About the creator:
 
 The creator, Lukiyan Sakharov is a Russian-South African who loves Linux and everything to do with it. He is also a singer/songwriter under the alias "Russian Bastard" He believes that no matter how old your computer is, it can still perform at modern standards. Meet Luki linux. The ultimate distribution for you!
+
+You can download the distribution from Internet Archive (a trusted platform in the open source community) with this link:
+https://archive.org/details/lukilinux-2026.03.19-xfce-64bit
+
+The link is also in the "About" Section of this repository.
